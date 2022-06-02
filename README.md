@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Bulat 👨🏻‍💻
 
-<!--
-**ilov3/ilov3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I'm working on developing and maintaining ELT pipelines for e-commerce department of multinational food, snack, and beverage corporation as part of a Data Engineering Team. Also have a passion on web development, both - front and back end parts. Have decent experience writing web scrapers, telegram bots, various cli automation tools. In some spare time I developing online boardgame called [Rummikub](https://en.wikipedia.org/wiki/Rummikub) with slightly altered ruleset (which we are used to while playing with friends offline). You can inspect the source code of it [here](https://github.com/ilov3/rummikub) and try to play it with friends on [rummi.uk](https://rummi.uk)
 
-Here are some ideas to get you started:
+For fun, I like to spend time with my family and friends, go on a trip, exploring new locations and beautiful places.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Links to share:
+
+[LinkedIn](https://www.linkedin.com/in/bulat-kurbangaliev/)
+
+[Contact via e-mail](mailto:iloveudead@gmail.com)
+
+[Contact via tg](https://t.me/bulatk116)
+
+![codewars](https://www.codewars.com/users/ilov3/badges/small)
