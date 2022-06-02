@@ -12,4 +12,6 @@ Links to share:
 
 [Contact via tg](https://t.me/bulatk116)
 
-![codewars](https://www.codewars.com/users/ilov3/badges/small)
+[Codewars](https://www.codewars.com/users/ilov3/)
+
+![codewars](https://www.codewars.com/users/ilov3/badges/small) 
