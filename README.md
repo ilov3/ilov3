@@ -10,7 +10,7 @@ Links to share:
 
 [Contact via e-mail](mailto:iloveudead@gmail.com)
 
-[Contact via tg](https://t.me/bulatk116)
+[Contact via tg](https://t.me/bulatk92)
 
 [Codewars](https://www.codewars.com/users/ilov3/)
 
